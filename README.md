@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @srisowmya2000
 - 👀 I’m interested in ethical hacking,pentesting
-- 🌱 I’m currently learning CEH v11
+- I have completed my Cybersecurity Professional Certificate from US- Council
+- 🌱 I’m currently learning OSCP
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me on mail srisowmya.nemani@gmail.com
 
