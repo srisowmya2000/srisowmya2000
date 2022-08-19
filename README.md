@@ -2,8 +2,8 @@
 - 👀 I’m interested in ethical hacking,pentesting
 - I have completed my Cybersecurity Professional Certificate from US- Council
 - 🌱 I’m currently learning OSCP
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me on mail srisowmya.nemani@gmail.com
+
+
 
 <!---
 srisowmya2000/srisowmya2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
