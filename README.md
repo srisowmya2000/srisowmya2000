@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @sowmya
-- 👀 I’m interested in ethical hacking,pentesting,risk management, cloud security, networking. 
+Hello, I'm @srisowmya. I'm passionate about ethical hacking, pen testing, risk management, cloud security, and networking. I am also certified as an eJPT, AWS Solution Architect, and Splunk Power User.
